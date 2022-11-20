@@ -15,7 +15,7 @@ This repository contains details about my project schema.org in Google Summer of
 ## Major points covered
 
 - System plugin is working in a generic way
-- Schema.org is saved in the database and also prepared and save
+- Complete schema is saved in the database along with cleaned up schema
 - Merging/Display modules
 - Supported Schema types: Book, Person, Organization, Event, Recipe and Blogposting
 - Schemas implementation done with all field types
