@@ -23,7 +23,8 @@ This repository contains details about my project schema.org in Google Summer of
 - Output in the frontend
 
 ## System Plugin 
-[Link to PR](https://github.com/joomla-projects/gsoc22_schema.org/pull/2)
+
+[PR: Base Implementation](https://github.com/joomla-projects/gsoc22_schema.org/pull/6)  
 
 Adds schema form in all the allowed components (Content and Contacts for now)  
 
@@ -31,7 +32,7 @@ Adds schema form in all the allowed components (Content and Contacts for now)
 
 ## Schemaorg Plugins
 
-[PR: Base Implementation](https://github.com/joomla-projects/gsoc22_schema.org/pull/6)  
+[PR: Schema.org Plugins](https://github.com/joomla-projects/gsoc22_schema.org/pull/2)  
 [PR: Event Plugin](https://github.com/joomla-projects/gsoc22_schema.org/pull/8)  
 [PR: Book Plugin](https://github.com/joomla-projects/gsoc22_schema.org/pull/9)  
 [PR: Organization Plugin](https://github.com/joomla-projects/gsoc22_schema.org/pull/13)  
