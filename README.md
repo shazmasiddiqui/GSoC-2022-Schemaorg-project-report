@@ -14,11 +14,12 @@ This repository contains details about my project schema.org in Google Summer of
 
 ## Major points covered
 
-- System plugin working in a generic way
-- Recipe implementation done with all field types from "Recipe" and "HowTo" + subform for "generic" title/value
+- System plugin is working in a generic way
 - Schema.org is saved in the database and also prepared and save
 - Merging/Display modules
-- Book, Person, Organization, Event, Recipe, Blogposting
+- Supported Schema types: Book, Person, Organization, Event, Recipe and Blogposting
+- Schemas implementation done with all field types
+- Subform for "generic" title/value
 - Output in the frontend
 
 ## System Plugin 
