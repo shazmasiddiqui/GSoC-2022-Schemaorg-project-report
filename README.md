@@ -21,7 +21,8 @@ This repository contains details about my project schema.org in Google Summer of
 - Book, Person, Organization, Event, Recipe, Blogposting
 - Output in the frontend
 
+## System Plugin 
+Adds schema form in all the allowed components (Content and Contacts for now)  
+[Add image]
 
-
-
-
+## Schemaorg Plugins
