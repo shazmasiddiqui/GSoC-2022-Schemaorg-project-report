@@ -8,7 +8,7 @@ This repository contains details about my project schema.org in Google Summer of
 **Project Idea:** [Schema.org Project Link](https://docs.joomla.org/GSoC_2022_Project_Ideas#Project_V:_Schema.org)  
 **Project plan:** [Phase 2](https://docs.google.com/document/d/1gkzeRM99KB4mSkCpfc1A-PGgIB7vIKf43CdvI2yGUts/edit)  
 **Project Repository:** [Project Repo](https://github.com/joomla-projects/gsoc22_schema.org/tree/dev)  
-**Weekly Report:** [Report link](https://volunteers.joomla.org/teams/gsoc-2022-schema-org#reports)  
+**Weekly Reports:** [Report link](https://volunteers.joomla.org/teams/gsoc-2022-schema-org#reports)  
 **Blog:** [Blog](https://community.joomla.org/gsoc-2022/gsoc-project-shazma-siddiqui-schema-org.html)  
 **Joomla CMS Repository:** [Joomla CMS Repo](https://github.com/joomla/joomla-cms) 
 
